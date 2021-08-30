@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152070479049",
+    "project_id": "ag-mobileri",
+    "storage_bucket": "ag-mobileri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152070479049:android:1d6ab8f76e44e89e494118",
+        "android_client_info": {
+          "package_name": "com.mobileri.ag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152070479049-51rmh8ariuei7p7ihrvr3ori7qbu7tci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvLRZ-BKH-9a4BUd3bPgdwUJ5EIjEVs5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152070479049-51rmh8ariuei7p7ihrvr3ori7qbu7tci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
